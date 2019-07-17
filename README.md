@@ -15,3 +15,5 @@ Para crear componentes
 Localización de la etiqueta para eredar las propiedades del componente 
 se localiza la etiquea en el archivo namecmponent.component.ts 
 se locliza la etiqueta en el selector.
+
+Para compilar el código se genera un nuevo proyecto en angular y posteriormente se remplazan las carpetas src y e2e.
